@@ -7,6 +7,8 @@ Everyday will have an _optional_ activity that you can chose to work on by yours
 **If you would like any code to be reviewed,** create a pull request with specific questions on what you would like feedback on.
 
 
+To do these activities, fork and clone this repo. All activities will be saved to this repo - instead of having many separate ones. 
+
 ## **Monday:** Daily Inspo Rails Application using Twillio Application
 **Covers:** Implementing Third Party API, Rails, Heroku
 
