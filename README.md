@@ -8,7 +8,7 @@ Everyday will have an _optional_ activity that you can chose to work on by yours
 
 
 ## **Monday:** Daily Inspo Rails Application using Twillio Application
-**Covers:** Implementing Third Party API, Rails
+**Covers:** Implementing Third Party API, Rails, Heroku
 
 Create an application that will send you a daily text with an inspirational message or image (*some* might suggest cute animals, like kittens).
 
