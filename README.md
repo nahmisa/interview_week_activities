@@ -2,7 +2,7 @@
 
 Everyday will have an _optional_ activity that you can chose to work on by yourself, with a pair or as a group.
 
-**These activities can be worked on at any time.** There will be a review session for each activity the morning after. The sessions will be recorded if you are unable to attend or have not yet completed the activity.
+**These activities can be worked on at any time.** There will be a review video for each activity the morning after.
 
 **If you would like any code to be reviewed,** create a pull request with specific questions on what you would like feedback on.
 
